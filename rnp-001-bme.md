@@ -89,9 +89,8 @@ Here is how the Render Network burn-and-mint model could work for Creators,, Nod
 1. **Creators:** On an epoch basis, Creators will receive a percentage of their RNDR spent that epoch back in the form of RNDR token rewards. This could ideally incentivize further use of the network and reward power users by allowing for more creations to be rendered on the Render Network. Percentage returns could be as high as 100% of RNDR spent initially, and could gradually taper as time goes on.
 
 2. **Node operators:** Node operators will be rewarded for performing work or providing value. These rewards could generally be segmented into two buckets:
-
-1. **Coupon Token Rewards:** Incentives for completing jobs submitted to the network
-2. **Availability Rewards:** Incentives for node operator liveness
+    1. **Coupon Token Rewards:** Incentives for completing jobs submitted to the network
+    2. **Availability Rewards:** Incentives for node operator liveness
 
 3. **Liquidity Providers:**  Liquidity providers will be rewarded per epoch for contributing staked tokens to the liquidity pools on partnered exchanges, allowing for RNDR to be available for the new burn-and-mint equilibrium system. Liquidity providers could be rewarded with an additional percentage of tokens staked that epoch, as determined by the network.
 
