@@ -108,7 +108,7 @@ Implementation of the BME will be a change to node operators and will have a sli
 
 RNP-001 relies on an emissions schedule in order to maintain a balance of outflows to stakeholders within the system and activity driven token burn. In the following sections, we outline an emissions schedule given the following constraints:
 
-Substantive Rewards for Network Stakeholders: In order for BME to operate as intended, it is critical to ensure that the notional value of tokens emitted matches the value contributed by node operators, artists, and liquidity providers across the lifecycle of the network. 
+Substantive Rewards for Network Stakeholders: In order for BME to operate as intended, it is critical to ensure that the notional value of tokens emitted matches the value contributed by node operators, artists, and liquidity providers across the lifecycle of the network. For reference, rewards at launch are roughly 5x the current payouts to node operators in RNDR terms.
 
 Changing Network and Market Conditions: At different points in time, the value contributed by each of the above stakeholders will vary given the growth goals of the network. It is critical that the split of rewards across specified stakeholders, or new stakeholders as they emerge in the functioning of the network, remain tunable to ensure that value-add actors are compensated for their work.
 
