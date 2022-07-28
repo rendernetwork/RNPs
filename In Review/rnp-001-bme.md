@@ -103,3 +103,33 @@ Emissions quantities would also need to be able to support rewards for new stake
 In addition, the Net Emissions cap will need to be established at some percentage of current issuance to maintain the core burn and mint equilibrium.
 
 Implementation of the BME will be a change to node operators and will have a slight learning curve, however, the new model will greatly benefit all members of the network as a whole once it is up and running.
+
+## Appendix
+
+RNP-001 relies on an emissions schedule in order to maintain a balance of outflows to stakeholders within the system and activity driven token burn. In the following sections, we outline an emissions schedule given the following constraints:
+
+Substantive Rewards for Network Stakeholders: In order for BME to operate as intended, it is critical to ensure that the notional value of tokens emitted matches the value contributed by node operators, artists, and liquidity providers across the lifecycle of the network. For reference, rewards at launch are roughly 5x the current payouts to node operators in RNDR terms.
+
+Changing Network and Market Conditions: At different points in time, the value contributed by each of the above stakeholders will vary given the growth goals of the network. It is critical that the split of rewards across specified stakeholders, or new stakeholders as they emerge in the functioning of the network, remain tunable to ensure that value-add actors are compensated for their work.
+
+Perpetual Emissions: Under the Burn-and-Mint Equilibrium, outflows must continue in some capacity indefinitely in order to reward network activity. The schedule must be designed such that there is no end to emissions, while the net emissions cap specified in RNP-001 can be used to augment outflows to stakeholders in case standard emissions are insufficient. Over time, new sources of outflows in the form of treasury reserve allocations or DAO contributions can be used to supplement emissions.
+
+With these constraints in mind, we propose the emissions schedule defined in this [this spreadsheet](https://docs.google.com/spreadsheets/d/1vgNamfJsJeCOUnFGtrdBw7GJCtN25bXEIFOluJQAO64/edit#gid=365524340).
+
+![https://lh4.googleusercontent.com/Zhgj2or0tiNu6MDrdC7lAp7yCB0SmFpnU_Yzm5mPz2ettzU1nClTEogrbrG-LMXOdbMux5h_0N-FxkFpDIf2jNTyjjbf-L5z7E2vcmxdGbIjpVvUSUTs8wUIv-AchYP3BsqSOmx0RSUzvcdk0y1wRfg](https://lh4.googleusercontent.com/Zhgj2or0tiNu6MDrdC7lAp7yCB0SmFpnU_Yzm5mPz2ettzU1nClTEogrbrG-LMXOdbMux5h_0N-FxkFpDIf2jNTyjjbf-L5z7E2vcmxdGbIjpVvUSUTs8wUIv-AchYP3BsqSOmx0RSUzvcdk0y1wRfg)
+
+
+
+A few notes:
+
+The specified schedule only defines a cap on the total circulating RNDR tokens, and does not account for the substantial amount of burn that will occur as a result of network activities. In practice, we expect the circulating supply of tokens to be substantially lower than amounts in the total supply column. 
+
+The schedule requires an increased supply of 107,374,182 (20% of total supply) tokens in order to incentivize stakeholders in the network. The increase in supply is released in small batches (never more than 10% in a given year) and dilutes existing token holders in favor of new entrants into the network. We strongly believe that this is necessary in order to reward value accretive stakeholders, and the total network activity generated as a result will outweigh any concerns around a fixed supply cap.
+
+
+The emissions schedule is broken down into two periods: Launch (Years 1-5) and Growth (Year 5 - Indefinite). The purpose of this is to design a front-loaded rewards schedule in initial stages of the network in order to ensure that early adopters are rewarded for their participation. In the growth stage, we define gradually decreasing outflows as per the damping coefficient (proposed at 0.945).
+
+Please note that the emissions schedule outlined is subject to forthcoming governance procedures, and relies heavily on parameter tuning in order to reward actors in later stages of the network. We believe that the protocols specified in RNP-000 are sufficient to inform changes to the schedule. 
+
+
+
