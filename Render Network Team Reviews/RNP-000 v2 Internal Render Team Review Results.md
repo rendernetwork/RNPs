@@ -1,7 +1,6 @@
-﻿# Internal Render Network Team Vote on RNP-000 (v2)
-## Results of Vote:
-**8/15 Members vote to Approve RNP-000 (v2)**
-**0/15 Members vote to Deny RNP-000 (v2)**
+﻿# Internal Render Network Team Review on RNP-000 (v2)
+## Final Results:
+***Internal Render Network Team to elevate RNP-000 (v2) to "Live Pending" Status***
 
 ### Notes/Comments:
 
