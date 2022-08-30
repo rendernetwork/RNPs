@@ -14,3 +14,11 @@ The Render Network Proposal Repository
 * #### *Equality*: It is important that everyone feels like they have a voice no matter their background and however small or large they are. The network is working to bring high end 3D graphics and related digital experiences to anyone with a creative vision.
 * #### *Constructiveness*: The network is more than the sum of its parts, and looks for positive contributions to building the future of decentralized GPU computing.
 * #### *Transparency*: Decisions will be publicly communicated openly and communication channels will provide open, publicly accessible forums to debate the future of RNPs.
+
+## Index of Current RNPs
+|RNP # |Title |Category |Status |
+|--|--|--|--
+|000   |[Proposal Genesis](https://github.com/rndr-network/RNPs/blob/main/Approved/RNP-000.md)  |Process|*Approved*
+|001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/In%20Review/rnp-001-bme.md)|Core-Technical|*In Review*
+
+** *All RNP statuses are classified as “In Review” (Currently being discussed by the community and/or Render Network Team), "Open for Voting" (currently up for Snapshot vote), "Approved" (have passed a community Snapshot vote), "Rejected" (has not passed a community Snapshot vote), “In Development” (currently being worked on by the Render Network development team) and “Implemented” (Approved and in use on the Render Network).* **
