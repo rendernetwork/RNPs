@@ -19,6 +19,6 @@ The Render Network Proposal Repository
 |RNP # |Title |Category |Status |
 |--|--|--|--
 |000   |[Proposal Genesis](https://github.com/rndr-network/RNPs/blob/main/Implemented/RNP-000.md)  |Process|*Implemented*
-|001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/Live%20Pending/rnp-001-bme.md)|Core-Technical|*Live Pending*
+|001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/Full%20Approval/rnp-001-bme.md)|Core-Technical|*Full Approval*
 
 ** *All RNP statuses are classified as “In Review” (Currently being discussed by the community and/or Render Network Team), "Open for Voting" (currently up for Snapshot vote), "Approved" (have passed a community Snapshot vote), "Rejected" (has not passed a community Snapshot vote), "In Render Review" (currently being discussed by the core Render Network team), "Full Approval" (has passed through both community and final Snapshot votes) “In Development” (currently being worked on by the Render Network development team) and “Implemented” (Approved and in use on the Render Network).* **
