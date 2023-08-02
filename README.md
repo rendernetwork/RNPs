@@ -22,6 +22,6 @@ The Render Network Proposal Repository
 |001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/rnp-001-bme.md)|Core-Technical|*Approved+Roadmap*
 |002|[Layer 1 Network Expansion](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/RNP-002.md)|Core-Technical|*Approved+Roadmap*
 |003|[Resource Acquisition and Allocation for Core Team and Grants](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/RNP-003.md)|Ecosystem Fund Allocation|*Approved+Roadmap*
-|004|[Open Compute Clients](https://github.com/rndr-network/RNPs/blob/main/In%20Review/RNP004.md)|Core-Technical|*In Review*
+|004|[Open Compute Clients](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/RNP004.md)|Core-Technical|*Approved+Roadmap*
 
 ***All RNP statuses can be viewed within Github, where they are classified as "In Render Team Review", "Open for RNP Vote", "Rejected", "Approved and on the Roadmap", “In Development” and “Implemented”.***
