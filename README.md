@@ -1,10 +1,10 @@
 # Render Network Proposals (RNPs)
-The Render Network Proposal Repository
 
+![](banner.png)
 **Please read through RNP-000 before constructing your first RNP.** RNPs should be well thought out and discussed across the appropriate Render Network Community channels.
 
 ## Index of Current RNPs
-|RNP # |Title |Category |Status |
+| # |Title |Category |Status |
 |--|--|--|--
 |000   |[Proposal Genesis](https://github.com/rndr-network/RNPs/blob/main/RNP-000.md)  |Process|*Implemented*
 |001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/rnp-001-bme.md)|Core-Technical|*Approved+Roadmap*
