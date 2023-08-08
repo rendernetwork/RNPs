@@ -3,6 +3,15 @@ The Render Network Proposal Repository
 
 **Please read through RNP-000 before constructing your first RNP.** RNPs should be well thought out and discussed across the appropriate Render Network Community channels.
 
+## Index of Current RNPs
+|RNP # |Title |Category |Status |
+|--|--|--|--
+|000   |[Proposal Genesis](https://github.com/rndr-network/RNPs/blob/main/RNP-000.md)  |Process|*Implemented*
+|001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/rnp-001-bme.md)|Core-Technical|*Approved+Roadmap*
+|002|[Layer 1 Network Expansion](https://github.com/rndr-network/RNPs/blob/main/RNP-002.md)|Core-Technical|*Approved+Roadmap*
+|003|[Resource Acquisition and Allocation for Core Team and Grants](https://github.com/rndr-network/RNPs/blob/main/RNP-003.md)|Ecosystem Fund Allocation|*Approved+Roadmap*
+|004|[Open Compute Clients](https://github.com/rndr-network/RNPs/blob/main/RNP004.md)|Core-Technical|*Approved+Roadmap*
+
 ## Guidelines for RNPs
 
  1. **Members should research previous proposals to ensure that their RNP has not already been submitted or does not conflict with a proposal up for vote.**
@@ -14,14 +23,5 @@ The Render Network Proposal Repository
 * #### *Equality*: It is important that everyone feels like they have a voice no matter their background and however small or large they are. The network is working to bring high end 3D graphics and related digital experiences to anyone with a creative vision.
 * #### *Constructiveness*: The network is more than the sum of its parts, and looks for positive contributions to building the future of decentralized GPU computing.
 * #### *Transparency*: Decisions will be publicly communicated openly and communication channels will provide open, publicly accessible forums to debate the future of RNPs.
-
-## Index of Current RNPs
-|RNP # |Title |Category |Status |
-|--|--|--|--
-|000   |[Proposal Genesis](https://github.com/rndr-network/RNPs/blob/main/Implemented/RNP-000.md)  |Process|*Implemented*
-|001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/rnp-001-bme.md)|Core-Technical|*Approved+Roadmap*
-|002|[Layer 1 Network Expansion](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/RNP-002.md)|Core-Technical|*Approved+Roadmap*
-|003|[Resource Acquisition and Allocation for Core Team and Grants](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/RNP-003.md)|Ecosystem Fund Allocation|*Approved+Roadmap*
-|004|[Open Compute Clients](https://github.com/rndr-network/RNPs/blob/main/Approved%20and%20on%20the%20Roadmap/RNP004.md)|Core-Technical|*Approved+Roadmap*
 
 ***All RNP statuses can be viewed within Github, where they are classified as "In Render Team Review", "Open for RNP Vote", "Rejected", "Approved and on the Roadmap", “In Development” and “Implemented”.***
