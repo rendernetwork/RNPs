@@ -6,11 +6,11 @@
 ## Index of Current RNPs
 | # |Title |Category |Status |
 |--|--|--|--
-|000   |[Proposal Genesis](https://github.com/rndr-network/RNPs/blob/main/RNP-000.md)  |Process|*Implemented*
-|001|[Burn-and-Mint Equilibrium](https://github.com/rndr-network/RNPs/blob/main/rnp-001-bme.md)|Core-Technical|*Approved+Roadmap*
-|002|[Layer 1 Network Expansion](https://github.com/rndr-network/RNPs/blob/main/RNP-002.md)|Core-Technical|*Approved+Roadmap*
-|003|[Resource Acquisition and Allocation for Core Team and Grants](https://github.com/rndr-network/RNPs/blob/main/RNP-003.md)|Ecosystem Fund Allocation|*Approved+Roadmap*
-|004|[Open Compute Clients](https://github.com/rndr-network/RNPs/blob/main/RNP004.md)|Core-Technical|*Approved+Roadmap*
+|000   |[Proposal Genesis](RNP-000.md)  |Process|*Implemented*
+|001|[Burn-and-Mint Equilibrium](RNP-001.md)|Core-Technical|*Approved+Roadmap*
+|002|[Layer 1 Network Expansion](RNP-002.md)|Core-Technical|*Approved+Roadmap*
+|003|[Resource Acquisition and Allocation for Core Team and Grants](RNP-003.md)|Ecosystem Fund Allocation|*Approved+Roadmap*
+|004|[Open Compute Clients](RNP004.md)|Core-Technical|*Approved+Roadmap*
 
 ## Guidelines for RNPs
 
