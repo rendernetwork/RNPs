@@ -12,6 +12,7 @@
 |003|[Resource Acquisition and Allocation for Core Team and Grants](RNP-003.md)|Ecosystem Fund Allocation|*Approved+Roadmap*
 |004|[Compute Clients](RNP-004.md)|Core-Technical|*Approved+Roadmap*
 |005|[Beam Compute Client](RNP-005.md)|Core-Technical|*In Render Team Review*
+|006|[Solana Upgrade and Emission Schedule](RNP-006.md)|Core|*Open for RNP Vote*
 
 ## Guidelines for RNPs
 
