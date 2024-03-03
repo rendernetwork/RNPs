@@ -14,6 +14,7 @@
 |005|[Beam Compute Client](RNP-005.md)|Core-Technical|*Approved+Roadmap*
 |006|[Solana Upgrade and Emission Schedule](RNP-006.md)|Core|*Approved+Roadmap*
 |007|[FedML Compute Client](RNP-007.md)|Core-Technical|*Approved+Roadmap*
+|008|[Nosana Compute Client](RNP-008.md)|Core-Technical|*Approved+Roadmap*
 
 ## Guidelines for RNPs
 
