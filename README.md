@@ -17,6 +17,7 @@
 |008|[Nosana Compute Client](RNP-008.md)|Core-Technical|*Approved+Roadmap*
 |009|[Prime Intellect Compute Client](RNP-009.md)|Core-Technical|*Initial Proposal Vote*
 |010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Initial Proposal Vote*
+|011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Draft Submission*
 
 ## Guidelines for RNPs
 
