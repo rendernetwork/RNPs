@@ -15,9 +15,10 @@
 |006|[Solana Upgrade and Emission Schedule](RNP-006.md)|Core|*Approved+Roadmap*
 |007|[FedML Compute Client](RNP-007.md)|Core-Technical|*Approved+Roadmap*
 |008|[Nosana Compute Client](RNP-008.md)|Core-Technical|*Approved+Roadmap*
-|009|[Prime Intellect Compute Client](RNP-009.md)|Core-Technical|*Initial Proposal Vote*
-|010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Initial Proposal Vote*
+|009|[Prime Intellect Compute Client](RNP-009.md)|Core-Technical|*Approved+Roadmap*
+|010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Approved+Roadmap*
 |011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Draft Submission*
+|012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Open for RNP Vote*
 
 ## Guidelines for RNPs
 
