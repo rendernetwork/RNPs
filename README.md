@@ -19,6 +19,7 @@
 |010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Approved+Roadmap*
 |011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Draft Submission*
 |012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Open for RNP Vote*
+|013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Draft Submission*
 
 ## Guidelines for RNPs
 
