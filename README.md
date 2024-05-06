@@ -21,6 +21,7 @@
 |012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Open for RNP Vote*
 |013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Draft Submission*
 |014|[Integration of Blender Cycles in the Render Network](RNP-014.md)|Core|*Draft Submission*
+|015|[Availability Rewards](RNP-015.md)|Core|*Draft Submission*
 
 ## Guidelines for RNPs
 
