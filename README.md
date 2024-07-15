@@ -17,11 +17,11 @@
 |008|[Nosana Compute Client](RNP-008.md)|Core-Technical|*Approved+Roadmap*
 |009|[Prime Intellect Compute Client](RNP-009.md)|Core-Technical|*Approved+Roadmap*
 |010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Approved+Roadmap*
-|011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Draft Submission*
-|012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Open for RNP Vote*
-|013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Draft Submission*
-|014|[Integration of Blender Cycles in the Render Network](RNP-014.md)|Core|*Draft Submission*
-|015|[Availability Rewards](RNP-015.md)|Core|*Draft Submission*
+|011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Approved+Roadmap*
+|012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Approved+Roadmap*
+|013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Approved+Roadmap*
+|014|[Integration of Blender Cycles in the Render Network](RNP-014.md)|Core|*Approved+Roadmap*
+|015|[Availability Rewards](RNP-015.md)|Core|*Approved+Roadmap*
 
 ## Guidelines for RNPs
 
