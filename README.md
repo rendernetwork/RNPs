@@ -7,21 +7,24 @@
 | # |Title |Category |Status |
 |--|--|--|--
 |000   |[Proposal Genesis](RNP-000.md)  |Process|*Implemented*
-|001|[Burn-and-Mint Equilibrium](RNP-001.md)|Core-Technical|*Approved+Roadmap*
-|002|[Layer 1 Network Expansion](RNP-002.md)|Core-Technical|*Approved+Roadmap*
-|003|[Resource Acquisition and Allocation for Core Team and Grants](RNP-003.md)|Ecosystem Fund Allocation|*Approved+Roadmap*
-|004|[Compute Clients](RNP-004.md)|Core-Technical|*Approved+Roadmap*
+|001|[Burn-and-Mint Equilibrium](RNP-001.md)|Core-Technical|*Implemented*
+|002|[Layer 1 Network Expansion](RNP-002.md)|Core-Technical|*Implemented*
+|003|[Resource Acquisition and Allocation for Core Team and Grants](RNP-003.md)|Ecosystem Fund Allocation|*Implemented*
+|004|[Compute Clients](RNP-004.md)|Core-Technical|*Implemented*
 |005|[Beam Compute Client](RNP-005.md)|Core-Technical|*Approved+Roadmap*
-|006|[Solana Upgrade and Emission Schedule](RNP-006.md)|Core|*Approved+Roadmap*
+|006|[Solana Upgrade and Emission Schedule](RNP-006.md)|Core|*Implemented*
 |007|[FedML Compute Client](RNP-007.md)|Core-Technical|*Approved+Roadmap*
 |008|[Nosana Compute Client](RNP-008.md)|Core-Technical|*Approved+Roadmap*
 |009|[Prime Intellect Compute Client](RNP-009.md)|Core-Technical|*Approved+Roadmap*
 |010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Approved+Roadmap*
-|011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Approved+Roadmap*
-|012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Approved+Roadmap*
-|013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Approved+Roadmap*
+|011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Withdrawn*
+|012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Implemented*
+|013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Implemented*
 |014|[Integration of Blender Cycles in the Render Network](RNP-014.md)|Core|*Approved+Roadmap*
-|015|[Availability Rewards](RNP-015.md)|Core|*Approved+Roadmap*
+|015|[Availability Rewards](RNP-015.md)|Core|*Implemented*
+|016|[Integration of Arnold in the Render Network](RNP-016.md)|Core|*Draft*
+|017|[Integration of OctaneRender for Blender into the Render Network](RNP-017.md)|Core|*Draft*
+|018|[Year 2 of BME Emissions Allocations](RNP-018.md)|Process|*Draft*
 
 ## Guidelines for RNPs
 
