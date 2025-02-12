@@ -22,9 +22,9 @@
 |013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Implemented*
 |014|[Integration of Blender Cycles in the Render Network](RNP-014.md)|Core|*Approved+Roadmap*
 |015|[Availability Rewards](RNP-015.md)|Core|*Implemented*
-|016|[Integration of Arnold in the Render Network](RNP-016.md)|Core|*Draft*
-|017|[Integration of OctaneRender for Blender into the Render Network](RNP-017.md)|Core|*Draft*
-|018|[Year 2 of BME Emissions Allocations](RNP-018.md)|Process|*Draft*
+|016|[Integration of Arnold in the Render Network](RNP-016.md)|Core|*Approved+Roadmap*
+|017|[Integration of OctaneRender for Blender into the Render Network](RNP-017.md)|Core|*Approved+Roadmap*
+|018|[Year 2 of BME Emissions Allocations](RNP-018.md)|Process|*Approved+Roadmap*
 
 ## Guidelines for RNPs
 
