@@ -25,6 +25,7 @@
 |016|[Integration of Arnold in the Render Network](RNP-016.md)|Core|*Approved+Roadmap*
 |017|[Integration of OctaneRender for Blender into the Render Network](RNP-017.md)|Core|*Approved+Roadmap*
 |018|[Year 2 of BME Emissions Allocations](RNP-018.md)|Process|*Approved+Roadmap*
+|019|[Render Compute Network](RNP-019.md)|Core|*Draft*
 
 ## Guidelines for RNPs
 
