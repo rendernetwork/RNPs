@@ -29,7 +29,7 @@
 |020|[Node Operator Forward Guidance Policy](RNP-020.md)|Process|*Defeated*
 |021|[Expansion of RNP-019 to include Enterprise Grade Compute](RNP-021.md)|Network|*Approved*
 |022|[Year 3 of BME Emissions Allocations](RNP-022.md)|Funding|*Approved*
-|023|[Proposal for the Salad Network to migrate to RENDER](RNP-023.md)|Network|*Approved*
+|023|[Proposal for the Salad Network to migrate to RENDER](RNP-023.md)|Network|*Approved+Roadmap*
 
 ## Guidelines for RNPs
 
