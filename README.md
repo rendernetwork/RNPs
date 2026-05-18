@@ -24,11 +24,11 @@
 |015|[Availability Rewards](RNP-015.md)|Core|*Implemented*
 |016|[Integration of Arnold in the Render Network](RNP-016.md)|Core|*Approved+Roadmap*
 |017|[Integration of OctaneRender for Blender into the Render Network](RNP-017.md)|Core|*Approved+Roadmap*
-|018|[Year 2 of BME Emissions Allocations](RNP-018.md)|Process|*Approved+Roadmap*
-|019|[Render Compute Network](RNP-019.md)|Core|*Approved+Roadmap*
+|018|[Year 2 of BME Emissions Allocations](RNP-018.md)|Process|*Implemented*
+|019|[Render Compute Network](RNP-019.md)|Core|*Implemented*
 |020|[Node Operator Forward Guidance Policy](RNP-020.md)|Process|*Defeated*
-|021|[Expansion of RNP-019 to include Enterprise Grade Compute](RNP-021.md)|Network|*Approved*
-|022|[Year 3 of BME Emissions Allocations](RNP-022.md)|Funding|*Approved*
+|021|[Expansion of RNP-019 to include Enterprise Grade Compute](RNP-021.md)|Network|*Implemented*
+|022|[Year 3 of BME Emissions Allocations](RNP-022.md)|Funding|*Implemented*
 |023|[Proposal for the Salad Network to migrate to RENDER](RNP-023.md)|Network|*Approved+Roadmap*
 
 ## Guidelines for RNPs
