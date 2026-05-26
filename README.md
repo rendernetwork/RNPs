@@ -11,12 +11,12 @@
 |002|[Layer 1 Network Expansion](RNP-002.md)|Core-Technical|*Implemented*
 |003|[Resource Acquisition and Allocation for Core Team and Grants](RNP-003.md)|Ecosystem Fund Allocation|*Implemented*
 |004|[Compute Clients](RNP-004.md)|Core-Technical|*Implemented*
-|005|[Beam Compute Client](RNP-005.md)|Core-Technical|*Approved+Roadmap*
+|005|[Beam Compute Client](RNP-005.md)|Core-Technical|*Approved*
 |006|[Solana Upgrade and Emission Schedule](RNP-006.md)|Core|*Implemented*
-|007|[FedML Compute Client](RNP-007.md)|Core-Technical|*Approved+Roadmap*
-|008|[Nosana Compute Client](RNP-008.md)|Core-Technical|*Approved+Roadmap*
-|009|[Prime Intellect Compute Client](RNP-009.md)|Core-Technical|*Approved+Roadmap*
-|010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Approved+Roadmap*
+|007|[FedML Compute Client](RNP-007.md)|Core-Technical|*Approved*
+|008|[Nosana Compute Client](RNP-008.md)|Core-Technical|*Approved*
+|009|[Prime Intellect Compute Client](RNP-009.md)|Core-Technical|*Approved*
+|010|[Exabits Compute Client](RNP-010.md)|Core-Technical|*Approved*
 |011|[Piwa — Creating Millions of 3D Training Assets](RNP-011.md)|Core-Technical|*Withdrawn*
 |012|[Render Network Wizard for Maxon Cinema 4D](RNP-012.md)|Core-Technical|*Implemented*
 |013|[Year 1 Emissions Rebalancing](RNP-013.md)|Core|*Implemented*
