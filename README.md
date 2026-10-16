@@ -30,6 +30,7 @@
 |021|[Expansion of RNP-019 to include Enterprise Grade Compute](RNP-021.md)|Network|*Implemented*
 |022|[Year 3 of BME Emissions Allocations](RNP-022.md)|Funding|*Implemented*
 |023|[Proposal for the Salad Network to migrate to RENDER](RNP-023.md)|Network|*Approved+Roadmap*
+|024|[Proposal for the Forth Growth and Adoption Incentive Program](RNP-024.md)|Network|*Draft*
 
 ## Guidelines for RNPs
 
