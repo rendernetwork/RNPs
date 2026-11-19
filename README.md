@@ -31,6 +31,7 @@
 |022|[Year 3 of BME Emissions Allocations](RNP-022.md)|Funding|*Implemented*
 |023|[Proposal for the Salad Network to migrate to RENDER](RNP-023.md)|Network|*Approved+Roadmap*
 |024|[Proposal for the Forth Growth and Adoption Incentive Program](RNP-024.md)|Network|*Draft*
+|025|[Year 4 of BME Emissions Allocations](RNP-025.md)|Funding|*Draft*
 
 ## Guidelines for RNPs
 
